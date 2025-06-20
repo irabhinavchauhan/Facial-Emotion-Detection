@@ -1,0 +1,6 @@
+Flask
+PyMuPDF
+cryptography
+watchdog
+gunicorn
+Pillow
